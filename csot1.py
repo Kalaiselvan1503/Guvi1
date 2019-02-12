@@ -11,4 +11,4 @@ else:
 for i in range(len(min)):
 	if(min[i]!=max[i]):
 		c+=1
-print(c)
+print(c-1)
