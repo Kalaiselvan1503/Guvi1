@@ -1,8 +1,7 @@
 #dsjfklls;
 st=str(input())
 arr=[]
-d=[]
-d.append(st)
+d=['d','h','o','n','i']
 d.sort()
 for x in st:
     arr.append(x)
