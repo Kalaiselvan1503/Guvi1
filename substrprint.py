@@ -1,0 +1,6 @@
+#hhdsl;fhjsd
+n,m=input().split()
+if(n.find(m)==-1):
+	print("no")
+else:
+	print(m)
