@@ -7,4 +7,4 @@ for i in range(0,n):
 if len(c)==0:
 	print("empty")
 else:
-	print(c)	
+	print(*c,sep=' ')	
