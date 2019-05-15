@@ -1,0 +1,9 @@
+#klnklgfkdjks
+n=int(input())
+li=[]
+while(n>0):
+    dig=n%10
+    if(c%2!=0):
+    	li.append(dig)
+    n=n//10
+print(*li)
