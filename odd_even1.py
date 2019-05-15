@@ -1,6 +1,11 @@
 #jhijhihfjg1
 n=int(input())
+li=[]
+li1=[]
 if(n%2==0):
-	print(n,end='')
+	li.append(n)
+	print(*li)
 else:
-	print(n-1,end='')
+	c=n-1
+	li1.append(c)
+	print(*li1)
