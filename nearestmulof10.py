@@ -1,0 +1,9 @@
+#hiohgfijhiods
+n=int(input())
+if(n<=10):
+	print("10")
+else:
+	k=n//10
+	c=k+1
+	d=c*10
+	print(d)
