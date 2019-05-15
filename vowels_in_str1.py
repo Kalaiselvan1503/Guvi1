@@ -1,7 +1,7 @@
 #kjhkjsajfk
 n=input()
 vowels=set('aeiou')
-if not vowels.disjoint(n):
+if not vowels.isdisjoint(n):
 	print("yes")
 else:
 	print("no")
