@@ -9,4 +9,4 @@ for i in n:
 for i in range(len(o)-1):
   if (o[i]<o[i+1]):
     p+=1
-print(p)
+print(p-1)
